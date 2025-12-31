@@ -1,43 +1,102 @@
-# 👋 Hello, I'm Julien Julien
+# 👋 Salut, moi c’est Julien Julien
 
-### 💻 Web Application Developer & Tech Enthusiast  
-Passionate about building intuitive and robust web experiences.  
-I love crafting applications that are both functional and user-friendly.
+🧑‍💻 Développeur Full Stack  
+🎮 Créateur de projets narratifs & d’expériences gamifiées  
+🚲 Cycliste ligérien, père, bâtisseur d’outils qui ont du sens  
 
----
-
-## 🚀 What I Do
-
-- 🔧 Full Stack Development  
-- 🌍 Creating modern web apps with React, Node.js, and more  
-- 🧠 Always learning and exploring new technologies
+Je développe des applications web modernes, mais surtout des **systèmes vivants**.  
+Des projets où le code, la narration et l’expérience utilisateur avancent ensemble.
 
 ---
 
-## 📫 Get in Touch
+## 🌌 Ce que je construis aujourd’hui
 
-- 📧 Email: [contact@julienjulien.fr](mailto:contact@julienjulien.fr)  
-- 🌐 Portfolio: [www.julienjulien.fr](https://www.julienjulien.fr)  
-- 📷 Instagram: [@iamjulienjulien](https://instagram.com/iamjulienjulien)
+### 🎮 RPG Renaissance  
+**Un RPG pour la vraie vie.**
 
----
+RPG Renaissance est une web-app expérimentale qui transforme le quotidien en jeu de rôle narratif.  
+Chaque action devient une quête.  
+Chaque période, un chapitre.  
+Chaque choix, une progression.
 
-## 🛠 Tech Stack
+C’est à la fois :
+- un journal interactif
+- une to-do list gamifiée
+- une expérience introspective assistée par IA
 
-- Frontend: React, HTML, CSS, JavaScript  
-- Backend: Node.js, Express  
-- Tools: Git, GitHub, VS Code, Figma
-
----
-
-## ✨ Fun Fact
-
-I build stuff during the day, and ride my bike to clear my mind at sunset 🚴‍♂️  
-Follow my journey: [@loireridezen](https://instagram.com/loireridezen)
+👉 Un projet personnel, vivant, en évolution constante, où la technologie sert la reconstruction et le mouvement.
 
 ---
 
-<!--
-jjconception/jjconception is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+### 🚲 Loire Ride Zen  
+**Rouler pour penser. Penser pour avancer.**
+
+Loire Ride Zen, c’est mon espace d’exploration à vélo.  
+Des micro-aventures, des longues respirations, des étapes le long de la Loire.
+
+Un projet à la frontière entre :
+- outdoor
+- narration
+- contemplation
+- équilibre de vie
+
+C’est aussi là que je teste mes idées, que je ralentis, et que je recharge ce qui nourrit mes projets numériques.
+
+📸 Instagram : https://instagram.com/loireridezen
+
+---
+
+### 🌱 Space Memoria (à venir)
+**Le prochain grand projet.**
+
+Space Memoria sera une application de généalogie nouvelle génération.  
+Un outil pour explorer les histoires familiales comme des galaxies, relier les générations, et redonner de la profondeur au temps long.
+
+Un projet ambitieux, narratif et rigoureux, actuellement en gestation.
+
+---
+
+## 🧠 Ma philosophie
+
+- Le code n’est pas neutre.
+- Les outils façonnent nos comportements.
+- La technologie peut aussi être un compagnon, pas seulement un outil froid.
+
+Je crois aux projets :
+- utiles mais sensibles
+- structurés mais poétiques
+- techniques mais profondément humains
+
+---
+
+## 🧑‍👨‍👧 Côté personnel
+
+Je suis aussi **père d’une petite fille de 2 ans**.  
+Une expérience qui a profondément influencé ma manière de penser le temps, les projets, et la notion de progression.
+
+Moins de bruit.  
+Plus de sens.  
+Des fondations solides.
+
+---
+
+## 🛠 Stack & outils
+
+- **Frontend** : React, Next.js, TypeScript, HTML, CSS
+- **Backend** : Node.js, Supabase, PostgreSQL
+- **Infra** : Vercel
+- **Outils** : Git, GitHub, VS Code, Figma
+- **Approche** : modulaire, narrative, orientée expérience
+
+---
+
+## 📬 Me contacter
+
+- 📧 Email : contact@julienjulien.fr  
+- 🌐 Site : https://www.julienjulien.fr  
+- 📸 Instagram : https://instagram.com/iamjulienjulien  
+
+---
+
+> *Je ne construis pas seulement des applications.*  
+> *Je construis des chemins.*
