@@ -1,102 +1,145 @@
-# 👋 Salut, moi c’est Julien Julien
+<div align="center">
 
-🧑‍💻 Développeur Full Stack  
-🎮 Créateur de projets narratifs & d’expériences gamifiées  
-🚲 Cycliste ligérien, père, bâtisseur d’outils qui ont du sens  
+# 👋 Salut, moi c'est Julien Julien
 
-Je développe des applications web modernes, mais surtout des **systèmes vivants**.  
-Des projets où le code, la narration et l’expérience utilisateur avancent ensemble.
+**Développeur Full Stack · Bâtisseur de systèmes vivants**
 
----
+*Je ne construis pas seulement des applications. Je construis des chemins.*
 
-## 🌌 Ce que je construis aujourd’hui
+[![Site](https://img.shields.io/badge/julienjulien.fr-0a0a0a?style=for-the-badge&logo=safari&logoColor=d4af37)](https://www.julienjulien.fr)
+[![Email](https://img.shields.io/badge/contact-d4af37?style=for-the-badge&logo=protonmail&logoColor=0a0a0a)](mailto:contact@julienjulien.fr)
+[![X](https://img.shields.io/badge/@iamjulienjulien-0a0a0a?style=for-the-badge&logo=x&logoColor=d4af37)](https://x.com/iamjulienjulien)
 
-### 🎮 RPG Renaissance  
-**Un RPG pour la vraie vie.**
-
-RPG Renaissance est une web-app expérimentale qui transforme le quotidien en jeu de rôle narratif.  
-Chaque action devient une quête.  
-Chaque période, un chapitre.  
-Chaque choix, une progression.
-
-C’est à la fois :
-- un journal interactif
-- une to-do list gamifiée
-- une expérience introspective assistée par IA
-
-👉 Un projet personnel, vivant, en évolution constante, où la technologie sert la reconstruction et le mouvement.
+</div>
 
 ---
 
-### 🚲 Loire Ride Zen  
+## 🌌 Ce que je construis aujourd'hui
+
+Je développe des applications web modernes, mais surtout des **systèmes vivants** — des projets où le code, la narration et l'expérience utilisateur avancent ensemble.
+
+### ✨ Space Memoria
+**La généalogie comme une cartographie cosmique.**
+
+Une web-app Next.js qui réinvente la généalogie : explorer ses ancêtres comme on traverse des galaxies, relier les générations, redonner de la profondeur au temps long.
+
+Architecture pensée autour de **7 Prisms** (Cosmic, Family, Archive, Scholar, Royal, Mythic, Heritage), chacun avec sa voix, ses entités, sa lecture du même arbre.
+
+> *Un passeport galactique, un profil dynastique, une fiche d'état civil, une figure légendaire — la même personne, sept regards.*
+
+🔗 [spacememoria.com](https://spacememoria.com) *(en ligne)*
+
+---
+
+### 🎨 Intent Design System
+**Un système de composants intent-first.**
+
+50 composants React + TypeScript publiés sur NPM, conçus autour de l'**intention** plutôt que de l'apparence. La promesse : décrire ce que tu veux faire, pas comment ça doit ressembler.
+
+- 📦 [`intent-design-system`](https://www.npmjs.com/package/intent-design-system) — v0.3.1
+- 🎭 Playground : [intent.julienjulien.fr](https://intent.julienjulien.fr) *(univers Game of Thrones)*
+- 🧱 SSR-ready (bug tsup corrigé en v0.3.1)
+
+---
+
+### 🧭 Axiom
+**Personal Life OS modulaire.**
+
+Un système d'exploitation personnel : modules indépendants pour gouverner ses chapitres de vie, ses quêtes, ses rituels. La continuité du projet **RPG Renaissance**, mais cette fois pensée comme une architecture, pas comme une app.
+
+> *Chaque action une quête. Chaque période un chapitre. Chaque choix une progression.*
+
+🔬 En développement actif.
+
+---
+
+### 🚲 Loire Ride Zen
 **Rouler pour penser. Penser pour avancer.**
 
-Loire Ride Zen, c’est mon espace d’exploration à vélo.  
-Des micro-aventures, des longues respirations, des étapes le long de la Loire.
+Mon espace d'exploration à vélo le long de la Loire. Micro-aventures, longues respirations, étapes contemplatives.
 
-Un projet à la frontière entre :
-- outdoor
-- narration
-- contemplation
-- équilibre de vie
+C'est aussi là que je teste mes idées, que je ralentis, et que je recharge ce qui nourrit mes projets numériques.
 
-C’est aussi là que je teste mes idées, que je ralentis, et que je recharge ce qui nourrit mes projets numériques.
-
-📸 Instagram : https://instagram.com/loireridezen
+📸 [@loireridezen](https://instagram.com/loireridezen)
 
 ---
 
-### 🌱 Space Memoria (à venir)
-**Le prochain grand projet.**
-
-Space Memoria sera une application de généalogie nouvelle génération.  
-Un outil pour explorer les histoires familiales comme des galaxies, relier les générations, et redonner de la profondeur au temps long.
-
-Un projet ambitieux, narratif et rigoureux, actuellement en gestation.
-
----
-
-## 🧠 Ma philosophie
-
-- Le code n’est pas neutre.
-- Les outils façonnent nos comportements.
-- La technologie peut aussi être un compagnon, pas seulement un outil froid.
-
-Je crois aux projets :
-- utiles mais sensibles
-- structurés mais poétiques
-- techniques mais profondément humains
-
----
-
-## 🧑‍👨‍👧 Côté personnel
-
-Je suis aussi **père d’une petite fille de 2 ans**.  
-Une expérience qui a profondément influencé ma manière de penser le temps, les projets, et la notion de progression.
-
-Moins de bruit.  
-Plus de sens.  
-Des fondations solides.
+### 🎢 Le Disneyiste
+Un projet narratif autour de l'univers Disney, à la croisée de l'analyse culturelle et du récit personnel.
 
 ---
 
 ## 🛠 Stack & outils
 
-- **Frontend** : React, Next.js, TypeScript, HTML, CSS
-- **Backend** : Node.js, Supabase, PostgreSQL
-- **Infra** : Vercel
-- **Outils** : Git, GitHub, VS Code, Figma
-- **Approche** : modulaire, narrative, orientée expérience
+<div align="center">
+
+**Frontend**
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178c6)
+![Zustand](https://img.shields.io/badge/Zustand-0a0a0a?style=flat-square&logo=react&logoColor=d4af37)
+
+**Backend**
+![Fastify](https://img.shields.io/badge/Fastify-0a0a0a?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169e1)
+![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=3ecf8e)
+![Zod](https://img.shields.io/badge/Zod-0a0a0a?style=flat-square&logo=zod&logoColor=3068b7)
+
+**Infra & outils**
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=f05032)
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=flat-square&logo=figma&logoColor=f24e1e)
+
+**IA & création**
+![Claude](https://img.shields.io/badge/Claude-0a0a0a?style=flat-square&logo=anthropic&logoColor=d4af37)
+![MidJourney](https://img.shields.io/badge/MidJourney-0a0a0a?style=flat-square&logo=midjourney&logoColor=white)
+
+</div>
+
+**Approche** : architecture par features (`queries.ts` / `store.ts` / `types.ts` / `helpers.ts`), code intent-first, sources de vérité uniques, narration intégrée.
+
+---
+
+## 🧠 Ma philosophie
+
+- Le code **n'est pas neutre**.
+- Les outils **façonnent** nos comportements.
+- La technologie peut être un **compagnon**, pas seulement un outil froid.
+
+Je crois aux projets :
+
+> **Utiles mais sensibles. Structurés mais poétiques. Techniques mais profondément humains.**
+
+Ma vision long terme : éditer des **applications culturelles, sociales et éducatives** qui ont du sens.
+
+---
+
+## 🧑‍👧 Côté personnel
+
+Père d'une petite fille — une expérience qui a profondément influencé ma manière de penser le temps, les projets, et la notion de progression.
+
+Cycliste ligérien, basé à **Angers**.
+
+Je porte aussi un projet personnel appelé **Projet Reconquête** : 14 chapitres de reconstruction, dont le premier — *Le Trône du Père* — est ma priorité absolue.
+
+> Moins de bruit. Plus de sens. Des fondations solides.
 
 ---
 
 ## 📬 Me contacter
 
-- 📧 Email : contact@julienjulien.fr  
-- 🌐 Site : https://www.julienjulien.fr  
-- 📸 Instagram : https://instagram.com/iamjulienjulien  
+- 📧 **Email** — [contact@julienjulien.fr](mailto:contact@julienjulien.fr)
+- 🌐 **Site** — [julienjulien.fr](https://www.julienjulien.fr)
+- 🐦 **X** — [@iamjulienjulien](https://x.com/iamjulienjulien)
+- 🚲 **Instagram vélo** — [@loireridezen](https://instagram.com/loireridezen)
 
 ---
 
-> *Je ne construis pas seulement des applications.*  
-> *Je construis des chemins.*
+<div align="center">
+
+*« Je ne construis pas seulement des applications.*  
+*Je construis des chemins. »*
+
+⭐ Si un projet t'intrigue, n'hésite pas à le **starrer** — ça aide.
+
+</div>
