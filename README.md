@@ -6,9 +6,9 @@
 
 *Je ne construis pas seulement des applications. Je construis des chemins.*
 
-[![Site](https://img.shields.io/badge/julienjulien.fr-0a0a0a?style=for-the-badge&logo=safari&logoColor=d4af37)](https://www.julienjulien.fr)
-[![Email](https://img.shields.io/badge/contact-d4af37?style=for-the-badge&logo=protonmail&logoColor=0a0a0a)](mailto:contact@julienjulien.fr)
-[![X](https://img.shields.io/badge/@iamjulienjulien-0a0a0a?style=for-the-badge&logo=x&logoColor=d4af37)](https://x.com/iamjulienjulien)
+[![Site](https://img.shields.io/badge/julienjulien.fr-00978d?style=for-the-badge&logo=safari&logoColor=ffffff)](https://www.julienjulien.fr)
+[![Email](https://img.shields.io/badge/contact-ffffff?style=for-the-badge&logo=protonmail&logoColor=00978d)](mailto:contact@julienjulien.fr)
+[![X](https://img.shields.io/badge/@iamjulienjulien-00978d?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/iamjulienjulien)
 
 </div>
 
