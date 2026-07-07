@@ -18,6 +18,8 @@
 
 Je développe des applications web modernes, mais surtout des **systèmes vivants** — des projets où le code, la narration et l'expérience utilisateur avancent ensemble.
 
+---
+
 ### ✨ Space Memoria
 **La généalogie comme une cartographie cosmique.**
 
@@ -27,7 +29,19 @@ Architecture pensée autour de **7 Prisms** (Cosmic, Family, Archive, Scholar, R
 
 > *Un passeport galactique, un profil dynastique, une fiche d'état civil, une figure légendaire — la même personne, sept regards.*
 
-🔗 [spacememoria.com](https://spacememoria.com) *(en ligne)*
+🔗 [spacememoria.com](https://spacememoria.com) *(landing page temporaire)*
+
+---
+
+### 🚲 Loire Ride Zen
+**Rouler pour penser. Penser pour avancer.**
+
+Mon espace d'exploration à vélo le long de la Loire. Micro-aventures, longues respirations, étapes contemplatives.
+
+C'est aussi là que je teste mes idées, que je ralentis, et que je recharge ce qui nourrit mes projets numériques.
+
+- 📸 [@loireridezen](https://instagram.com/loireridezen) 
+- 🔗 [loireridezen.link](https://loireridezen.link) 
 
 ---
 
@@ -37,7 +51,7 @@ Architecture pensée autour de **7 Prisms** (Cosmic, Family, Archive, Scholar, R
 50 composants React + TypeScript publiés sur NPM, conçus autour de l'**intention** plutôt que de l'apparence. La promesse : décrire ce que tu veux faire, pas comment ça doit ressembler.
 
 - 📦 [`intent-design-system`](https://www.npmjs.com/package/intent-design-system) — v0.3.1
-- 🎭 Playground : [intent.julienjulien.fr](https://intent.julienjulien.fr) *(univers Game of Thrones)*
+- 🎭 Playground : [intent.julienjulien.fr](https://intent.julienjulien.fr) 
 - 🧱 SSR-ready (bug tsup corrigé en v0.3.1)
 
 ---
@@ -50,22 +64,6 @@ Un système d'exploitation personnel : modules indépendants pour gouverner ses 
 > *Chaque action une quête. Chaque période un chapitre. Chaque choix une progression.*
 
 🔬 En développement actif.
-
----
-
-### 🚲 Loire Ride Zen
-**Rouler pour penser. Penser pour avancer.**
-
-Mon espace d'exploration à vélo le long de la Loire. Micro-aventures, longues respirations, étapes contemplatives.
-
-C'est aussi là que je teste mes idées, que je ralentis, et que je recharge ce qui nourrit mes projets numériques.
-
-📸 [@loireridezen](https://instagram.com/loireridezen)
-
----
-
-### 🎢 Le Disneyiste
-Un projet narratif autour de l'univers Disney, à la croisée de l'analyse culturelle et du récit personnel.
 
 ---
 
