@@ -20,6 +20,22 @@ Je développe des applications web modernes, mais surtout des **systèmes vivant
 
 ---
 
+### 🚲 Loire Ride Zen
+**Rouler pour penser. Penser pour avancer.**
+
+Mon espace d'exploration à vélo le long de la Loire. Micro-aventures, longues respirations, étapes contemplatives.
+
+C'est aussi là que je teste mes idées, que je ralentis, et que je recharge ce qui nourrit mes projets numériques.
+
+- 🔗 Le Hub [loireridezen.link](https://loireridezen.link)
+- 📸 Le Compte Insta [@loireridezen](https://instagram.com/loireridezen)
+- 🗺️ La Carte Interactive [carte.loireridezen.bike](https://carte.loireridezen.bike)
+- 📖 Le Codex Ligérien [codex.loireridezen.bike](https://codex.loireridezen.bike)
+
+
+
+---
+
 ### ✨ Space Memoria
 **La généalogie comme une cartographie cosmique.**
 
@@ -33,17 +49,7 @@ Architecture pensée autour de **7 Prisms** (Cosmic, Family, Archive, Scholar, R
 
 ---
 
-### 🚲 Loire Ride Zen
-**Rouler pour penser. Penser pour avancer.**
 
-Mon espace d'exploration à vélo le long de la Loire. Micro-aventures, longues respirations, étapes contemplatives.
-
-C'est aussi là que je teste mes idées, que je ralentis, et que je recharge ce qui nourrit mes projets numériques.
-
-- 📸 [@loireridezen](https://instagram.com/loireridezen) 
-- 🔗 [loireridezen.link](https://loireridezen.link) 
-
----
 
 ### 🎨 Intent Design System
 **Un système de composants intent-first.**
