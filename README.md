@@ -135,7 +135,7 @@ Je porte aussi un projet personnel appelé **Projet Reconquête** : 14 chapitres
 - 📧 **Email** — [contact@julienjulien.fr](mailto:contact@julienjulien.fr)
 - 🌐 **Site** — [julienjulien.fr](https://www.julienjulien.fr)
 - 🐦 **X** — [@iamjulienjulien](https://x.com/iamjulienjulien)
-- 🚲 **Instagram vélo** — [@loireridezen](https://instagram.com/loireridezen)
+- ⛵️ **MidJourney - [@iamjulienjulien](https://www.midjourney.com/@iamjulienjulien)
 
 ---
 
