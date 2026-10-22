@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Julien Julien
-
 ![](https://github.com/iamjulienjulien/iamjulienjulien/blob/main/julienjulien.gif)
+
+# 👋 Salut, moi c'est Julien Julien
 
 **Développeur Full Stack · Bâtisseur de systèmes vivants**
 
