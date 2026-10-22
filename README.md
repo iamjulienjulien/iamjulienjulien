@@ -2,6 +2,8 @@
 
 # 👋 Salut, moi c'est Julien Julien
 
+![](https://github.com/iamjulienjulien/iamjulienjulien/blob/main/julienjulien.gif)
+
 **Développeur Full Stack · Bâtisseur de systèmes vivants**
 
 *Je ne construis pas seulement des applications. Je construis des chemins.*
