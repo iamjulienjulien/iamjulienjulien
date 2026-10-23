@@ -2,15 +2,27 @@
 
 ![](https://github.com/iamjulienjulien/iamjulienjulien/blob/main/julienjulien.gif)
 
-# 👋 Salut, moi c'est Julien Julien
+<strong><font size="6">👋 Salut, moi c'est Julien Julien</font></strong>
 
-**Développeur Full Stack · Bâtisseur de systèmes vivants**
+**Créateur d’expériences numériques**<br/>📍 Angers, France 🇫🇷
 
-*Je ne construis pas seulement des applications. Je construis des chemins.*
+
+>&nbsp;<br/>
+>  **🐣 1991 : trois ans, un Macintosh LC et tout un monde à explorer.<br/>🌐 1997 : je commence à façonner ce monde à mon tour, avec mes premiers sites web.**<br/>
+>
+> <p align="left">👶🏻 J’ai grandi avec les <strong>pages perso</strong>, les GIFs improbables, les compteurs de visiteurs et les liens qu’on s’échangeait comme des bonnes adresses.<br/>👣 De <a href="https://fr.wikipedia.org/wiki/Microsoft_FrontPage">FrontPage</a> à <a href="https://fr.wikipedia.org/wiki/Adobe_Dreamweaver">Dreamweaver</a>, du PHP aux applications d’aujourd’hui, j’ai appris <strong>en fabriquant, en démontant, en recommençant.</strong></p>
+>
+> <p align="left">🎓 L’anthropologie a nourri mon regard sur les <strong>humains derrière les écrans</strong> ; le code m’a donné les moyens de créer pour eux.<br/>🏗️ Aujourd’hui, je mêle <strong>développement, narration et IA</strong> pour construire des expériences qui donnent envie <strong>d’explorer, de comprendre et de transmettre.</strong></p>
+><br/>
+>
+> **⏱️ Près de trente ans de Web. Toujours la curiosité des premiers clics. 👁️**
+> <br/><br/>
+
+<br/>
+
+*Je ne construis pas seulement des applications.<br/>Je construis des chemins.*
 
 [![Site](https://img.shields.io/badge/julienjulien.fr-00978d?style=for-the-badge&logo=safari&logoColor=ffffff)](https://www.julienjulien.fr)
-[![Email](https://img.shields.io/badge/contact-ffffff?style=for-the-badge&logo=protonmail&logoColor=00978d)](mailto:contact@julienjulien.fr)
-[![X](https://img.shields.io/badge/@iamjulienjulien-00978d?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/iamjulienjulien)
 
 </div>
 
