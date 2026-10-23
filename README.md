@@ -2,7 +2,7 @@
 
 ![](https://github.com/iamjulienjulien/iamjulienjulien/blob/main/julienjulien.gif)
 
-<strong><font size="6">👋 Salut, moi c'est Julien Julien</font></strong>
+# 👋 Salut, moi c'est Julien Julien
 
 **Créateur d’expériences numériques**<br/>📍 Angers, France 🇫🇷
 
