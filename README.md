@@ -9,18 +9,18 @@
 
 &nbsp;<br/>
 
-**🐣 1991 : trois ans, un Macintosh LC et tout un monde à explorer.<br/>🌐 1997 : je commence à façonner ce monde à mon tour, avec mes premiers sites web.**<br/>
-
-<p align="left">👶🏻 J’ai grandi avec les <strong>pages perso</strong>, les GIFs improbables, les compteurs de visiteurs et les liens qu’on s’échangeait comme des bonnes adresses.</p>
-
-<p align="left">👣 De <a href="https://fr.wikipedia.org/wiki/Microsoft_FrontPage">FrontPage</a> à <a href="https://fr.wikipedia.org/wiki/Adobe_Dreamweaver">Dreamweaver</a>, du PHP aux applications d’aujourd’hui, j’ai appris <strong>en fabriquant, en démontant, en recommençant.</strong></p>
-
-<p align="left">🎓 L’anthropologie a nourri mon regard sur les <strong>humains derrière les écrans</strong> ; le code m’a donné les moyens de créer pour eux.</p>
-
-<p align="left">🏗️ Aujourd’hui, je mêle <strong>développement, narration et IA</strong> pour construire des expériences qui donnent envie <strong>d’explorer, de comprendre et de transmettre.</strong></p>
-<br/>
-
-**⏱️ Près de trente ans de Web. Toujours la curiosité des premiers clics. 👁️**
+> **🐣 1991 : trois ans, un Macintosh LC et tout un monde à explorer.<br/>🌐 1997 : je commence à façonner ce monde à mon tour, avec mes premiers sites web.**<br/>
+>
+> <p align="left">👶🏻 J’ai grandi avec les <strong>pages perso</strong>, les GIFs improbables, les compteurs de visiteurs et les liens qu’on s’échangeait comme des bonnes adresses.</p>
+>
+><p align="left">👣 De <a href="https://fr.wikipedia.org/wiki/Microsoft_FrontPage">FrontPage</a> à <a href="https://fr.wikipedia.org/wiki/Adobe_Dreamweaver">Dreamweaver</a>, du PHP aux applications d’aujourd’hui, j’ai appris <strong>en fabriquant, en démontant, en recommençant.</strong></p>
+>
+><p align="left">🎓 L’anthropologie a nourri mon regard sur les <strong>humains derrière les écrans</strong> ; le code m’a donné les moyens de créer pour eux.</p>
+>
+> <p align="left">🏗️ Aujourd’hui, je mêle <strong>développement, narration et IA</strong> pour construire des expériences qui donnent envie <strong>d’explorer, de comprendre et de transmettre.</strong></p>
+> <br/>
+>
+> **⏱️ Près de trente ans de Web. Toujours la curiosité des premiers clics. 👁️**
 <br/><br/>
 
 
