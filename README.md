@@ -25,6 +25,14 @@
 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/frise-julien-julien-sombre.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/frise-julien-julien-clair.svg" />
+  <img src="./assets/frise-julien-julien-clair.svg" alt="Mon parcours : découverte du Macintosh LC à trois ans en 1991, premiers sites web en 1997, puis développement, narration et IA aujourd’hui." width="100%" />
+</picture>
+
+<br/><br/>
+
 *Je ne construis pas seulement des applications.<br/>Je construis des chemins.*
 
 <br/>
