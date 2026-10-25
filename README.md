@@ -2,7 +2,7 @@
 
 ![](https://github.com/iamjulienjulien/iamjulienjulien/blob/main/julienjulien.gif)
 
-# 👋 Salut, moi c'est Julien Julien
+<strong><font size="6">👋 Salut, moi c'est Julien Julien</font></strong>
 
 **Créateur d’expériences numériques**<br/>📍 Angers, France 🇫🇷
 
@@ -13,7 +13,7 @@
 >
 > <p align="left">👶🏻 J’ai grandi avec les <strong>pages perso</strong>, les GIFs improbables, les compteurs de visiteurs et les liens qu’on s’échangeait comme des bonnes adresses.</p>
 >
-><p align="left">👣 De <a href="https://fr.wikipedia.org/wiki/Microsoft_FrontPage">FrontPage</a> à <a href="https://fr.wikipedia.org/wiki/Adobe_Dreamweaver">Dreamweaver</a>, du PHP aux applications d’aujourd’hui, j’ai appris <strong>en fabriquant, en démontant, en recommençant.</strong></p>
+><p align="left">👣 De <strong>FrontPage</strong> à <strong>Dreamweaver</strong>, du PHP aux applications d’aujourd’hui, j’ai appris <strong>en fabriquant, en démontant, en recommençant.</strong></p>
 >
 ><p align="left">🎓 L’anthropologie a nourri mon regard sur les <strong>humains derrière les écrans</strong> ; le code m’a donné les moyens de créer pour eux.</p>
 >
@@ -39,69 +39,9 @@
 
 [![Site](https://img.shields.io/badge/julienjulien.fr-00978d?style=for-the-badge&logo=safari&logoColor=ffffff)](https://www.julienjulien.fr)
 
+<br>
+
 </div>
-
----
-
-## 🌌 Ce que je construis aujourd'hui
-
-Je développe des applications web modernes, mais surtout des **systèmes vivants** — des projets où le code, la narration et l'expérience utilisateur avancent ensemble.
-
----
-
-### 🚲 Loire Ride Zen
-**Rouler pour penser. Penser pour avancer.**
-
-Mon espace d'exploration à vélo le long de la Loire. Micro-aventures, longues respirations, étapes contemplatives.
-
-C'est aussi là que je teste mes idées, que je ralentis, et que je recharge ce qui nourrit mes projets numériques.
-
-- 🔗 Le Hub [loireridezen.link](https://loireridezen.link)
-- 📸 Le Compte Insta [@loireridezen](https://instagram.com/loireridezen)
-- 🗺️ La Carte Interactive [carte.loireridezen.bike](https://carte.loireridezen.bike)
-- 📖 Le Codex Ligérien [codex.loireridezen.bike](https://codex.loireridezen.bike)
-
-
-
----
-
-### ✨ Space Memoria
-**La généalogie comme une cartographie cosmique.**
-
-Une web-app Next.js qui réinvente la généalogie : explorer ses ancêtres comme on traverse des galaxies, relier les générations, redonner de la profondeur au temps long.
-
-Architecture pensée autour de **7 Prisms** (Cosmic, Family, Archive, Scholar, Royal, Mythic, Heritage), chacun avec sa voix, ses entités, sa lecture du même arbre.
-
-> *Un passeport galactique, un profil dynastique, une fiche d'état civil, une figure légendaire — la même personne, sept regards.*
-
-🔗 [spacememoria.com](https://spacememoria.com) *(landing page temporaire)*
-
----
-
-
-
-### 🎨 Intent Design System
-**Un système de composants intent-first.**
-
-50 composants React + TypeScript publiés sur NPM, conçus autour de l'**intention** plutôt que de l'apparence. La promesse : décrire ce que tu veux faire, pas comment ça doit ressembler.
-
-- 📦 [`intent-design-system`](https://www.npmjs.com/package/intent-design-system) — v0.3.1
-- 🎭 Playground : [intent.julienjulien.fr](https://intent.julienjulien.fr) 
-- 🧱 SSR-ready (bug tsup corrigé en v0.3.1)
-
----
-
-### 🧭 Axiom
-**Personal Life OS modulaire.**
-
-Un système d'exploitation personnel : modules indépendants pour gouverner ses chapitres de vie, ses quêtes, ses rituels. La continuité du projet **RPG Renaissance**, mais cette fois pensée comme une architecture, pas comme une app.
-
-> *Chaque action une quête. Chaque période un chapitre. Chaque choix une progression.*
-
-🔬 En développement actif.
-
----
-
 
 
 <div align="center">
@@ -200,59 +140,23 @@ Un système d'exploitation personnel : modules indépendants pour gouverner ses 
   
 <br/>
 
----
-
-**Approche** : architecture par features (`queries.ts` / `store.ts` / `types.ts` / `helpers.ts`), code intent-first, sources de vérité uniques, narration intégrée.
-
----
-
-## 🧠 Ma philosophie
-
-- Le code **n'est pas neutre**.
-- Les outils **façonnent** nos comportements.
-- La technologie peut être un **compagnon**, pas seulement un outil froid.
-
-Je crois aux projets :
-
-> **Utiles mais sensibles. Structurés mais poétiques. Techniques mais profondément humains.**
-
-Ma vision long terme : éditer des **applications culturelles, sociales et éducatives** qui ont du sens.
-
----
-
-## 🧑‍👧 Côté personnel
-
-Père d'une petite fille — une expérience qui a profondément influencé ma manière de penser le temps, les projets, et la notion de progression.
-
-Cycliste ligérien, basé à **Angers**.
-
-Je porte aussi un projet personnel appelé **Projet Reconquête** : 14 chapitres de reconstruction, dont le premier — *Le Trône du Père* — est ma priorité absolue.
-
-> Moins de bruit. Plus de sens. Des fondations solides.
-
----
 
 ## 📬 Me contacter
 
-- 📧 **Email** — [contact@julienjulien.fr](mailto:contact@julienjulien.fr)
 - 🌐 **Site** — [julienjulien.fr](https://www.julienjulien.fr)
 - 🐦 **X** — [@iamjulienjulien](https://x.com/iamjulienjulien)
-- ⛵️ **MidJourney - [@iamjulienjulien](https://www.midjourney.com/@iamjulienjulien)
-
----
+- ✍️ **Dev.to** — [@iamjulienjulien](https://dev.to/iamjulienjulien)
+- ⛵️ **MidJourney** - [@iamjulienjulien](https://www.midjourney.com/@iamjulienjulien)
 
 <div align="center">
+<br/>
 
 *« Je ne construis pas seulement des applications.*  
 *Je construis des chemins. »*
-
-⭐ Si un projet t'intrigue, n'hésite pas à le **starrer** — ça aide.
-&nbsp;
-
-&nbsp;
-  
+<br/>
+<br/>
+## Code. Create. Imagine. Repeat. ✨
+<br/>
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=iamjulienjulien&theme=ocean&show_ring=false&hide_title=true&border_radius=8&size=compact&show_emoji=false&show_icons=false&hide=stars%2Cprs%2Cissues%2Ccontributions%2Crepos%2Cfollowers%2Cgrade&order=commits%2Chours%2Cavg%2Cstreak%2Cweek%2Cactive_day%2Ctrend)
-
 </div>
-
